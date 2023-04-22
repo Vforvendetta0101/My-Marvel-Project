@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'bpg_glaho_sylfaen';
+    src: url('fonts/bpg_glaho_sylfaen.eot');
+    src: url('fonts/bpg_glaho_sylfaen.eot') format('embedded-opentype'),
+         url('fonts/bpg_glaho_sylfaen.woff2') format('woff2'),
+         url('fonts/bpg_glaho_sylfaen.woff') format('woff'),
+         url('fonts/bpg_glaho_sylfaen.ttf') format('truetype'),
+         url('fonts/bpg_glaho_sylfaen.svg#bpg_glaho_sylfaen') format('svg');
+}
